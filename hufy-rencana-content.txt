@@ -13,3 +13,10 @@ Berikut rencana konten singkat yang menarik untuk dokumentasi perjalanan belajar
 💡 "Kenapa Git & GitHub Itu Penting? (Belajar Version Control)"
 💡 "10 Website Gratis untuk Belajar Coding!"
 💡 "Bagaimana Cara Membangun Portofolio Front-End Developer?"
+
+4️⃣ Showcase & Mini Projects
+🎨 "Membuat Landing Page Sederhana dengan HTML & CSS"
+🎨 "Membuat To-Do List dengan JavaScript (Project Sederhana)"
+🎨 "Dark Mode Toggle: Cara Membuatnya dengan CSS & JS!"
+🎨 "Membuat Website Portfolio Sendiri (Step by Step)"
+🎨 "Mencoba Framework Tailwind CSS: Worth It atau Nggak?"
