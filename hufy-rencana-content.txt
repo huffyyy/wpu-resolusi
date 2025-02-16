@@ -6,3 +6,10 @@ Berikut rencana konten singkat yang menarik untuk dokumentasi perjalanan belajar
 📍 "Membuat Website Responsive dengan Flexbox & Grid!"
 📍 "JavaScript Dasar: Interaksi Pertama dengan Website"
 📍 "Dari Zero ke Hero: Proyek Kecil yang Aku Buat!"
+
+2️⃣ Tips & Trik Belajar Coding
+💡 "5 Tips Belajar Coding Supaya Gak Cepat Bosan!"
+💡 "Cara Efektif Belajar CSS & JavaScript (Tanpa Overthinking)"
+💡 "Kenapa Git & GitHub Itu Penting? (Belajar Version Control)"
+💡 "10 Website Gratis untuk Belajar Coding!"
+💡 "Bagaimana Cara Membangun Portofolio Front-End Developer?"
