@@ -20,3 +20,10 @@ Berikut rencana konten singkat yang menarik untuk dokumentasi perjalanan belajar
 🎨 "Dark Mode Toggle: Cara Membuatnya dengan CSS & JS!"
 🎨 "Membuat Website Portfolio Sendiri (Step by Step)"
 🎨 "Mencoba Framework Tailwind CSS: Worth It atau Nggak?"
+
+📌 Format Konten:
+✅ Twitter Thread / LinkedIn Post → Dokumentasi singkat setiap hari
+✅ Medium / Blog → Artikel lebih mendalam
+✅ YouTube / TikTok / Reels → Video singkat belajar coding
+
+🔥 Fokus: Konsisten berbagi pengalaman & progress biar makin semangat! 🚀
