@@ -9,3 +9,13 @@ Tahun 2025, aku bertekad untuk meningkatkan skill dan membangun karier sebagai F
 ✅ Belajar tentang UI/UX Design agar website lebih menarik
 ✅ Berpartisipasi dalam komunitas developer (open source, forum, hackathon)
 ✅ Mencari kesempatan freelance atau internship untuk pengalaman kerja
+
+📌 Rencana Aksi:
+Belajar dan Praktik Setiap Hari → Minimal 2 jam coding per hari
+Membuat Proyek Kecil Secara Bertahap → Dari landing page hingga aplikasi web sederhana
+Mengikuti Kursus atau Roadmap Online → Memanfaatkan YouTube, Frontend Mentor, dan dokumentasi resmi
+Membangun Personal Website/Portfolio untuk menampilkan hasil belajar
+Bergabung dengan Komunitas → Discord, LinkedIn, atau Twitter untuk networking
+🔥 Tahun ini adalah langkah besar menuju karier sebagai Front-End Developer! 🔥
+
+💻 Let's code, learn, and grow! 
