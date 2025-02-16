@@ -1,0 +1,8 @@
+Berikut rencana konten singkat yang menarik untuk dokumentasi perjalanan belajar sebagai Front-End Developer
+📌 Rencana Konten Belajar Front-End Developer 🚀
+1️⃣ Journey & Progress (Dokumentasi perjalanan belajar)
+📍 "Hari ke-1: Mulai dari Nol! Apa Itu Front-End Development?"
+📍 "Belajar HTML & CSS: Membangun Website Pertama!"
+📍 "Membuat Website Responsive dengan Flexbox & Grid!"
+📍 "JavaScript Dasar: Interaksi Pertama dengan Website"
+📍 "Dari Zero ke Hero: Proyek Kecil yang Aku Buat!"
